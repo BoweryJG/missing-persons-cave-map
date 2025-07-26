@@ -1,0 +1,94 @@
+{
+  "abductions": [
+    {
+      "id": "ab001",
+      "name": "Betty and Barney Hill",
+      "date": "1961-09-19",
+      "location": "New Hampshire Route 3",
+      "coordinates": [44.0195, -71.5804],
+      "type": "ufo_abduction",
+      "description": "First widely publicized alien abduction case"
+    },
+    {
+      "id": "ab002",
+      "name": "Travis Walton",
+      "date": "1975-11-05",
+      "location": "Apache-Sitgreaves National Forest, Arizona",
+      "coordinates": [34.2778, -110.0347],
+      "type": "ufo_abduction",
+      "description": "Logger allegedly abducted for 5 days"
+    },
+    {
+      "id": "ab003",
+      "name": "Pascagoula Abduction",
+      "date": "1973-10-11",
+      "location": "Pascagoula River, Mississippi",
+      "coordinates": [30.3658, -88.5561],
+      "type": "ufo_abduction",
+      "description": "Charles Hickson and Calvin Parker abduction"
+    },
+    {
+      "id": "ab004",
+      "name": "Manhattan Transfer Abduction",
+      "date": "1989-11-30",
+      "location": "Manhattan, New York",
+      "coordinates": [40.7580, -73.9855],
+      "type": "ufo_abduction",
+      "description": "Linda Napolitano case witnessed by multiple people"
+    },
+    {
+      "id": "ab005",
+      "name": "Allagash Abductions",
+      "date": "1976-08-26",
+      "location": "Allagash Wilderness, Maine",
+      "coordinates": [46.8833, -69.0667],
+      "type": "ufo_abduction",
+      "description": "Four men allegedly abducted while camping"
+    },
+    {
+      "id": "ab006",
+      "name": "Kelly Cahill Encounter",
+      "date": "1993-08-08",
+      "location": "Dandenong Ranges, Victoria, Australia",
+      "coordinates": [-37.8333, 145.3500],
+      "type": "ufo_abduction",
+      "description": "Multiple witness abduction case"
+    },
+    {
+      "id": "ab007",
+      "name": "Buff Ledge Incident",
+      "date": "1968-08-07",
+      "location": "Lake Champlain, Vermont",
+      "coordinates": [44.5588, -73.3508],
+      "type": "ufo_abduction",
+      "description": "Two teenagers at summer camp"
+    },
+    {
+      "id": "ab008",
+      "name": "Coronado Abduction",
+      "date": "1957-05-10",
+      "location": "Near Coronado, California",
+      "coordinates": [32.6859, -117.1831],
+      "type": "military_related",
+      "description": "Military personnel missing time incident"
+    },
+    {
+      "id": "ab009",
+      "name": "Rendlesham Forest Incident",
+      "date": "1980-12-26",
+      "location": "Suffolk, England",
+      "coordinates": [52.0833, 1.4167],
+      "type": "military_related",
+      "description": "US military personnel encounter, missing time reported"
+    },
+    {
+      "id": "ab010",
+      "name": "Skinwalker Ranch Events",
+      "date": "1994-2016",
+      "location": "Uintah County, Utah",
+      "coordinates": [40.2583, -109.8897],
+      "type": "paranormal_hotspot",
+      "description": "Multiple disappearances and strange phenomena"
+    }
+  ]
+}

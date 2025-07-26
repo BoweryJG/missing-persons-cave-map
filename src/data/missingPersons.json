@@ -1,0 +1,104 @@
+{
+  "cases": [
+    {
+      "id": "mp001",
+      "name": "Dennis Martin",
+      "age": 6,
+      "date": "1969-06-14",
+      "location": "Great Smoky Mountains National Park",
+      "coordinates": [35.6532, -83.5070],
+      "type": "missing",
+      "description": "Disappeared during family camping trip near Spence Field"
+    },
+    {
+      "id": "mp002",
+      "name": "Stacy Arras",
+      "age": 14,
+      "date": "1981-07-17",
+      "location": "Yosemite National Park",
+      "coordinates": [37.8651, -119.5383],
+      "type": "missing",
+      "description": "Vanished during horseback riding trip near Sunrise High Sierra Camp"
+    },
+    {
+      "id": "mp003",
+      "name": "Charles McCullar",
+      "age": Unknown,
+      "date": "1975-01-13",
+      "location": "Crater Lake National Park",
+      "coordinates": [42.8684, -122.1685],
+      "type": "missing",
+      "description": "Photographer who disappeared near Wizard Island"
+    },
+    {
+      "id": "mp004",
+      "name": "Kenny Veach",
+      "age": 47,
+      "date": "2014-11-10",
+      "location": "Mojave Desert near Area 51",
+      "coordinates": [36.5323, -115.9311],
+      "type": "missing",
+      "description": "Disappeared searching for mysterious M Cave"
+    },
+    {
+      "id": "mp005",
+      "name": "Brandon Swanson",
+      "age": 19,
+      "date": "2008-05-14",
+      "location": "Minnesota (Rural)",
+      "coordinates": [44.5589, -96.0156],
+      "type": "missing",
+      "description": "Vanished after car accident, phone call ended abruptly"
+    },
+    {
+      "id": "mp006",
+      "name": "Jaryd Atadero",
+      "age": 3,
+      "date": "1999-10-02",
+      "location": "Roosevelt National Forest",
+      "coordinates": [40.3772, -105.5786],
+      "type": "missing",
+      "description": "Disappeared during hiking trip on Big South Trail"
+    },
+    {
+      "id": "mp007",
+      "name": "George Penca",
+      "age": 30,
+      "date": "2011-06-17",
+      "location": "Yosemite National Park",
+      "coordinates": [37.7459, -119.5936],
+      "type": "missing",
+      "description": "Church youth group leader vanished near Yosemite Valley"
+    },
+    {
+      "id": "mp008",
+      "name": "Paul Fugate",
+      "age": 41,
+      "date": "1980-01-13",
+      "location": "Chiricahua National Monument",
+      "coordinates": [32.0134, -109.3892],
+      "type": "missing",
+      "description": "Park ranger disappeared while on duty"
+    },
+    {
+      "id": "mp009",
+      "name": "Bill Ewasko",
+      "age": 65,
+      "date": "2010-06-24",
+      "location": "Joshua Tree National Park",
+      "coordinates": [33.8734, -115.9010],
+      "type": "missing",
+      "description": "Experienced hiker vanished in Juniper Flats area"
+    },
+    {
+      "id": "mp010",
+      "name": "Joe Keller",
+      "age": 18,
+      "date": "2015-07-23",
+      "location": "Rio Grande National Forest",
+      "coordinates": [37.7528, -106.8644],
+      "type": "missing",
+      "description": "Runner disappeared during morning jog near Rainbow Trout Ranch"
+    }
+  ]
+}

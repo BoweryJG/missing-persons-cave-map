@@ -1,0 +1,118 @@
+{
+  "caves": [
+    {
+      "id": "cave001",
+      "name": "Mammoth Cave System",
+      "state": "Kentucky",
+      "coordinates": [37.1870, -86.1000],
+      "length_miles": 426,
+      "depth_feet": 379,
+      "entrances": [
+        {"name": "Historic Entrance", "coords": [37.1861, -86.0989]},
+        {"name": "New Entrance", "coords": [37.1833, -86.1011]},
+        {"name": "Frozen Niagara", "coords": [37.1889, -86.0967]}
+      ]
+    },
+    {
+      "id": "cave002", 
+      "name": "Jewel Cave",
+      "state": "South Dakota",
+      "coordinates": [43.7311, -103.8294],
+      "length_miles": 210,
+      "depth_feet": 832,
+      "entrances": [
+        {"name": "Historic Entrance", "coords": [43.7311, -103.8294]}
+      ]
+    },
+    {
+      "id": "cave003",
+      "name": "Wind Cave",
+      "state": "South Dakota", 
+      "coordinates": [43.5554, -103.4838],
+      "length_miles": 154,
+      "depth_feet": 654,
+      "entrances": [
+        {"name": "Natural Entrance", "coords": [43.5554, -103.4838]}
+      ]
+    },
+    {
+      "id": "cave004",
+      "name": "Lechuguilla Cave",
+      "state": "New Mexico",
+      "coordinates": [32.1747, -104.4453],
+      "length_miles": 150,
+      "depth_feet": 1604,
+      "entrances": [
+        {"name": "Main Entrance", "coords": [32.1747, -104.4453]}
+      ]
+    },
+    {
+      "id": "cave005",
+      "name": "Carlsbad Cavern",
+      "state": "New Mexico",
+      "coordinates": [32.1479, -104.5567],
+      "length_miles": 33,
+      "depth_feet": 1604,
+      "entrances": [
+        {"name": "Natural Entrance", "coords": [32.1479, -104.5567]},
+        {"name": "Elevator Entrance", "coords": [32.1475, -104.5563]}
+      ]
+    },
+    {
+      "id": "cave006",
+      "name": "Fisher Ridge Cave System",
+      "state": "Kentucky",
+      "coordinates": [37.1044, -86.1219],
+      "length_miles": 131,
+      "depth_feet": 350,
+      "entrances": [
+        {"name": "Main Entrance", "coords": [37.1044, -86.1219]}
+      ]
+    },
+    {
+      "id": "cave007",
+      "name": "Organ Cave",
+      "state": "West Virginia",
+      "coordinates": [37.6514, -80.4583],
+      "length_miles": 53,
+      "depth_feet": 488,
+      "entrances": [
+        {"name": "Main Entrance", "coords": [37.6514, -80.4583]}
+      ]
+    },
+    {
+      "id": "cave008",
+      "name": "Blue Spring Cave",
+      "state": "Tennessee",
+      "coordinates": [35.2897, -85.6933],
+      "length_miles": 38,
+      "depth_feet": 265,
+      "entrances": [
+        {"name": "Main Entrance", "coords": [35.2897, -85.6933]}
+      ]
+    },
+    {
+      "id": "cave009",
+      "name": "Fern Cave",
+      "state": "Alabama",
+      "coordinates": [34.6589, -86.2889],
+      "length_miles": 15,
+      "depth_feet": 450,
+      "entrances": [
+        {"name": "Johnston Entrance", "coords": [34.6589, -86.2889]},
+        {"name": "Surprise Pit", "coords": [34.6611, -86.2867]}
+      ]
+    },
+    {
+      "id": "cave010",
+      "name": "Kazumura Cave",
+      "state": "Hawaii",
+      "coordinates": [19.4364, -154.9969],
+      "length_miles": 41,
+      "depth_feet": 3613,
+      "entrances": [
+        {"name": "Upper Entrance", "coords": [19.4364, -154.9969]}
+      ]
+    }
+  ]
+}
