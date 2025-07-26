@@ -23,7 +23,7 @@
     {
       "id": "mp003",
       "name": "Charles McCullar",
-      "age": Unknown,
+      "age": "Unknown",
       "date": "1975-01-13",
       "location": "Crater Lake National Park",
       "coordinates": [42.8684, -122.1685],

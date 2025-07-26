@@ -16,7 +16,7 @@ function App() {
   const toggleLayer = (layer: string) => {
     setActiveLayers(prev => ({
       ...prev,
-      [layer]: !prev[layer]
+      [layer]: !prev[layer as keyof typeof prev]
     }))
   }
 
